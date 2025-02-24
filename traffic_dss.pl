@@ -67,4 +67,3 @@ yellow_duration(_, 3). % Default: 3s
 % Output: Duration = 60 (due to emergency vehicle override)
 
 
-# I am just a guy who wants to make it in life and have the best for all that I love.
