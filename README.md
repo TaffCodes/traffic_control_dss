@@ -34,7 +34,7 @@ swipl
 
 2. Load the program:
 ```prolog
-?- [traffic_dss].
+?- consult('traffic.pl').
 ```
 
 3. Example queries:
