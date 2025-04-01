@@ -92,7 +92,13 @@ Duration = 5.   % Rainy conditions
 - `traffic_dss.pl` - Main Prolog source file containing rules and facts
 - `README.md` - Project documentation
 
+# Check the [SUBMISSION DOCUMENTATION](https://docs.google.com/document/d/1t-Gt7DRTMzih52xHSMERlHONdNOXHI-10BK79Lpbego/edit?usp=sharing) 👈🏾
+
+## Feeling blessed? Support me [here](https://link.payd.one/feeling-blessed):)
 
 ## Author
 
 Ideated by Group 4, BSc. Computer Science - CU - Class of 2025
+
+
+
