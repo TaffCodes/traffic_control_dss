@@ -94,7 +94,7 @@ Duration = 5.   % Rainy conditions
 
 # Check the [SUBMISSION DOCUMENTATION](https://docs.google.com/document/d/1t-Gt7DRTMzih52xHSMERlHONdNOXHI-10BK79Lpbego/edit?usp=sharing) 👈🏾
 
-## Feeling blessed? Support me [here](https://link.payd.one/feeling-blessed):)
+## Feeling blessed? Support me [here](https://paystack.com/pay/feeling-blessed):)
 
 ## Author
 
